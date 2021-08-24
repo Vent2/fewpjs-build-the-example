@@ -5,7 +5,7 @@ const FULL_HEART = '♥'
 // Your JavaScript code goes here!
 const errorDiv = document.querySelector('#modal');
 const hearts = document.querySelectorAll('.like-glyph');
-
+//
 
 function hideError() {
     errorDiv.setAttribute('class', 'hidden');
